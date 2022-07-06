@@ -30,7 +30,7 @@ canvas.position(0, 0);
 
 h1= createElement('h1', 'Título de mi website');
 h1.style('color', 'black');
-h1.position(50, 0);
+h1.position(50, 1);
 
 p = createP('redactar un parrafo');
 p.style('font-size', '20px');
